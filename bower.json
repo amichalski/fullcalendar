@@ -8,14 +8,5 @@
     "jquery-simulate": "*",
     "jasmine-jquery": "~1.7.0",
     "jasmine-fixture": "~1.0.8"
-  },
-  "dependencies": {
-    "moment": ">=2.5.0",
-    "jquery": "~1.10.2",
-    "jquery-ui": "~1.10.3",
-    "jquery-simulate": "*",
-    "jasmine-jquery": "~1.7.0",
-    "jasmine-fixture": "~1.0.8"
   }
-
 }
